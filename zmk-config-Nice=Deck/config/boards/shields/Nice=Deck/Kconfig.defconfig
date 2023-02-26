@@ -1,0 +1,6 @@
+if SHEILD_NICE=DECK
+            
+config ZMK_KEYBOARD_NAME
+    default "Nice=Deck"
+
+endif
